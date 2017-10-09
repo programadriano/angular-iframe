@@ -17,7 +17,7 @@ export class SafePipe implements PipeTransform {
 export class AppComponent {
   title = 'app';
 
-  video: string = "https://www.youtube.com/embed/XGSy3_Czz8k";
+  video: string = "https://www.youtube.com/embed/CD-E-LDc384";
 
 
 }
